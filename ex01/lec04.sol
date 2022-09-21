@@ -1,6 +1,6 @@
 pragma solidity >= 0.7.0 < 0.9.0 ;
 
-contract lec4{
+contract lec04{
     
     // function 이름([인자]) 접근제한자{  내용  }
     // 접근제한자 (public, private, internal, external )
