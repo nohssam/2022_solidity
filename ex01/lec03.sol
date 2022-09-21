@@ -1,6 +1,6 @@
 pragma solidity >= 0.7.0 < 0.9.0 ;
 
-contract lec3{
+contract lec03{
     // 이더리움의 코인은 ETH 이더 라고 다들 알고 있을 거라 생각합니다.
     // 1 ether = 10^9 Gwei = 10^18 wei 
     // 1^18 wei 는 1 ether
