@@ -2,7 +2,7 @@ pragma solidity >= 0.7.0 < 0.9.0 ;
  // 데이터타입, 레퍼런스 타입, 매핑 타입
  // 데이터 타입
  // solidity에는 기본적으로 boolean, string, bytes, Integer ,address 라는 변수들이 대표적으로 있습니다. 
-contract lec2{
+contract lec02{
     // 데이터 타입 접근제한자 변수명 = 데이터
     bool public b = false;
     bool public b1 = !false;
